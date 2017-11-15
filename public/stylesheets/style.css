@@ -1,0 +1,18 @@
+body {
+  padding: 50px;
+  color: whitesmoke;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-image: url("/images/money.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; /* fill the page */
+  background-attachment: fixed; /* dpn't scroll */
+}
+
+a {
+  color: whitesmoke;
+}
+
+/* scales the image with about class tag so it will shrink to fit window */
+img.about {
+  max-width: 100%;
+}
