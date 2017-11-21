@@ -1,4 +1,5 @@
 module.exports = {
-  EUR: 0.85,
-  JPY: 112.62
+  EUR: 1.0,
+  USD: 1.17,
+  JPY: 132.13
 };
